@@ -233,6 +233,17 @@ button:hover{
         background-color: #282828;
         color: white;
     }
+     .buttons button{
+        margin: 0 5px;
+        padding: 8px 15px;
+        color: white;
+        font-size: 14px;
+        border: none;
+        border-radius: 5px;
+        border: 1px solid rgba(211,211,211,0.3);
+        outline: none;
+        background-color: rgba(224, 224, 224, 0.219);
+    }
 }
 
 @media all and (max-width: 1199px){
